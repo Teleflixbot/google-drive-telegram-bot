@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5021426780:AAGAot8U3LZJS8wE5rZeoekQq-QMgRIep0k"
+    APP_ID = "9498192"
+    API_HASH = "829caae22b3f1dfa923d8d1b3d54c893"
+    DATABASE_URL = "postgres://sbifcrzszbkifm:be18b74600f5172840c4711f02747dfc10bee37e5b1cec206df4f08e19011da3@ec2-3-89-214-80.compute-1.amazonaws.com:5432/dffooh9tlvk6ff"
+    SUDO_USERS = "1946981342" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/teleflix_club"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
